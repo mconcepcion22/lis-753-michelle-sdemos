@@ -1,15 +1,12 @@
 body {
-    background-color: #FFC0CB;
-    font-family: sans-serif;
-    margin: 20px;
+  background-color: #ffdae9; /* Light Pink Background */
+  color: #ff1493;            /* Hot Pink Font */
+  font-family: 'Fredoka', 'Comic Sans MS', cursive, sans-serif;
+  padding: 20px;
 }
 
-h1 {
-    color: #2c3e50;
-    font-size: 2em;
-}
-
-p {
-    color: #333333;
-    line-height: 1.6;
+/* Headings */
+h1, h2 {
+  color: #ff1493;            /* Hot Pink Font */
+  font-weight: 700;
 }

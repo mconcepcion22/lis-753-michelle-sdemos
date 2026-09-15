@@ -1,11 +1,12 @@
 body {
   background-color: #ffdae9; /* Light Pink Background */
-  color: #ff1493;            /* Hot Pink Font */
+  color: #ff1493;            /* Hot Pink Text */
   font-family: 'Fredoka', 'Comic Sans MS', cursive, sans-serif;
   padding: 20px;
 }
+
 /* Headings */
-h1, h2 {
-  color: #ff1493;            /* Hot Pink Font */
+h1, h2, h3 {
+  color: #ff1493;            /* Hot Pink Headings */
   font-weight: 700;
 }
